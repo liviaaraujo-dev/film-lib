@@ -10,7 +10,7 @@
 
 ## [Descrição do Projeto](#descrição-do-projeto)
 
-O Film Lib é um projeto que oferece uma listagem e pesquisa de filmes, aproveitando os dados fornecidos pela API The Movie Database.
+O Film Lib é um projeto que oferece uma listagem e pesquisa de filmes, aproveitando os dados fornecidos pela API The Movie Database.<br>
 <https://film-lib.netlify.app/>
 
 ![FilmLib](./public/print.png)
