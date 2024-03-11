@@ -16,27 +16,25 @@ O Film Lib é um projeto que oferece uma listagem e pesquisa de filmes, aproveit
 
 ## [Tecnlogias Utilizadas](#tecnologias-utilizadas)
 
-<div style="display: flex; gap: 15px;">
-    <div style="display: flex; flex-direction: column; align-items: center;">
 <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 React
-</div>
+<br>
+<br>
 
-<div style="display: flex; flex-direction: column; align-items: center;">
 <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 Javascript
-</div>
+<br>
+<br>
 
-<div style="display: flex; flex-direction: column; align-items: center;">
 <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 CSS
-</div>
+<br>
+<br>
 
-<div style="display: flex; flex-direction: column; align-items: center;">
 <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg">
 Vite
-</div>
-</div>
+<br>
+<br>
 
 ## [Executar projeto](#executar-projeto)
 
