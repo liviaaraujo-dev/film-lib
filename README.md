@@ -1,8 +1,53 @@
-# React + Vite
+# Film Lib
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![FilmLib](./public/capa.png)
 
-Currently, two official plugins are available:
+## Índice
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [Descrição do Projeto](#descrição-do-projeto)
+- [Tecnologias Utilizadas](#tecnologias-utilizadas)
+- [Executar Projeto](#executar-projeto)
+
+## [Descrição do Projeto](#descrição-do-projeto)
+
+O Film Lib é um projeto que oferece uma listagem e pesquisa de filmes, aproveitando os dados fornecidos pela API The Movie Database.
+
+![FilmLib](./public/print.png)
+
+## [Tecnlogias Utilizadas](#tecnologias-utilizadas)
+
+<div style="display: flex; gap: 15px;">
+    <div style="display: flex; flex-direction: column; align-items: center;">
+<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+React
+</div>
+
+<div style="display: flex; flex-direction: column; align-items: center;">
+<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+Javascript
+</div>
+
+<div style="display: flex; flex-direction: column; align-items: center;">
+<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+CSS
+</div>
+
+<div style="display: flex; flex-direction: column; align-items: center;">
+<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg">
+Vite
+</div>
+</div>
+
+## [Executar projeto](#executar-projeto)
+
+### Instalar dependências
+
+```bash
+$ npm install
+```
+
+### Rodar Localmente
+
+```bash
+$ npm run dev
+```
